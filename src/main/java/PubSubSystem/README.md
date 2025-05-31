@@ -1,1 +1,1 @@
-![Diagram](../../../Questions/PubSub.png)
+![PubSub](../../../../Questions/PubSub.png)
